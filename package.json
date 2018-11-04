@@ -1,8 +1,9 @@
 {
   "name": "@jimpick/prosemirror-view",
-  "version": "1.6.5-1",
+  "version": "1.6.5-2",
   "description": "ProseMirror's view component",
   "main": "dist/index.js",
+  "module": "src/index.js",
   "style": "style/prosemirror.css",
   "license": "MIT",
   "maintainers": [
