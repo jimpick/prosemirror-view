@@ -1,4 +1,4 @@
-import {DOMSerializer, Fragment, Mark} from "prosemirror-model"
+import {DOMSerializer, Fragment, Mark} from "@jimpick/prosemirror-model"
 
 import {domIndex, isEquivalentPosition} from "./dom"
 import browser from "./browser"

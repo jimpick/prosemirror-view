@@ -1,4 +1,4 @@
-import {Mark} from "prosemirror-model"
+import {Mark} from "@jimpick/prosemirror-model"
 import {NodeSelection} from "@jimpick/prosemirror-state"
 
 import {scrollRectIntoView, posAtCoords, coordsAtPos, endOfTextblock, storeScrollPos, resetScrollPos} from "./domcoords"

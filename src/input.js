@@ -1,5 +1,5 @@
 import {Selection, NodeSelection, TextSelection} from "@jimpick/prosemirror-state"
-import {dropPoint} from "prosemirror-transform"
+import {dropPoint} from "@jimpick/prosemirror-transform"
 
 import browser from "./browser"
 import {captureKeyDown} from "./capturekeys"

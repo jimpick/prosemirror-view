@@ -1,6 +1,6 @@
 {
   "name": "@jimpick/prosemirror-view",
-  "version": "1.6.5-2",
+  "version": "1.6.5-3",
   "description": "ProseMirror's view component",
   "main": "dist/index.js",
   "module": "src/index.js",
@@ -18,9 +18,9 @@
     "url": "git://github.com/prosemirror/prosemirror-view.git"
   },
   "dependencies": {
-    "prosemirror-model": "^1.1.0",
+    "@jimpick/prosemirror-model": "^1.6.3-1",
     "@jimpick/prosemirror-state": "^1.2.2-3",
-    "prosemirror-transform": "^1.1.0"
+    "@jimpick/prosemirror-transform": "^1.1.3-1"
   },
   "devDependencies": {
     "ist": "^1.0.0",

@@ -1,5 +1,5 @@
 import {EditorState} from "@jimpick/prosemirror-state"
-import {Mapping} from "prosemirror-transform"
+import {Mapping} from "@jimpick/prosemirror-transform"
 
 class TrackedRecord {
   constructor(prev, mapping, state) {

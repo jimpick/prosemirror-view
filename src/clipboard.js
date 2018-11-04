@@ -1,4 +1,4 @@
-import {Slice, Fragment, DOMParser, DOMSerializer} from "prosemirror-model"
+import {Slice, Fragment, DOMParser, DOMSerializer} from "@jimpick/prosemirror-model"
 
 export function serializeForClipboard(view, slice) {
   let context = [], {content, openStart, openEnd} = slice
