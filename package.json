@@ -1,6 +1,6 @@
 {
   "name": "@jimpick/prosemirror-view",
-  "version": "1.6.5-3",
+  "version": "1.6.5-4",
   "description": "ProseMirror's view component",
   "main": "dist/index.js",
   "module": "src/index.js",
