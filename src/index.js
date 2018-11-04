@@ -1,5 +1,5 @@
 import {Mark} from "prosemirror-model"
-import {NodeSelection} from "prosemirror-state"
+import {NodeSelection} from "@jimpick/prosemirror-state"
 
 import {scrollRectIntoView, posAtCoords, coordsAtPos, endOfTextblock, storeScrollPos, resetScrollPos} from "./domcoords"
 import {docViewDesc} from "./viewdesc"

@@ -1,4 +1,4 @@
-import {TextSelection, NodeSelection} from "prosemirror-state"
+import {TextSelection, NodeSelection} from "@jimpick/prosemirror-state"
 
 import browser from "./browser"
 import {selectionCollapsed} from "./dom"

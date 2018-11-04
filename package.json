@@ -1,6 +1,6 @@
 {
-  "name": "prosemirror-view",
-  "version": "1.6.5",
+  "name": "@jimpick/prosemirror-view",
+  "version": "1.6.5-1",
   "description": "ProseMirror's view component",
   "main": "dist/index.js",
   "style": "style/prosemirror.css",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "prosemirror-model": "^1.1.0",
-    "prosemirror-state": "^1.0.0",
+    "@jimpick/prosemirror-state": "^1.2.2-3",
     "prosemirror-transform": "^1.1.0"
   },
   "devDependencies": {

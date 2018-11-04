@@ -1,4 +1,4 @@
-import {Selection, NodeSelection, TextSelection} from "prosemirror-state"
+import {Selection, NodeSelection, TextSelection} from "@jimpick/prosemirror-state"
 import {dropPoint} from "prosemirror-transform"
 
 import browser from "./browser"

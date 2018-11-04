@@ -1,5 +1,5 @@
 import {Fragment, DOMParser} from "prosemirror-model"
-import {Selection, TextSelection} from "prosemirror-state"
+import {Selection, TextSelection} from "@jimpick/prosemirror-state"
 import {Mapping} from "prosemirror-transform"
 
 import {TrackMappings} from "./trackmappings"
